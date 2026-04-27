@@ -1,0 +1,244 @@
+{
+  "programs": [
+    {
+      "id": 1,
+      "title": "Arquitectura",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Arquitectura y Diseño",
+      "imageUrl": "https://picsum.photos/seed/arquitectura/400/220",
+      "duration": "12 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-arquitectura"
+    },
+    {
+      "id": 2,
+      "title": "Ingeniería de Sistemas",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ingeniería",
+      "imageUrl": "https://picsum.photos/seed/ingenieria-de-sistem/400/220",
+      "duration": "9 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas"
+    },
+    {
+      "id": 3,
+      "title": "Ingeniería Industrial",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ingeniería",
+      "imageUrl": "https://picsum.photos/seed/ingenieria-industria/400/220",
+      "duration": "8 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-ingenieria-industrial"
+    },
+    {
+      "id": 4,
+      "title": "Administración de Empresas",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ciencias Económicas",
+      "imageUrl": "https://picsum.photos/seed/administracion-de-em/400/220",
+      "duration": "9 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-administracion-de-empresas"
+    },
+    {
+      "id": 5,
+      "title": "Finanzas",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ciencias Económicas",
+      "imageUrl": "https://picsum.photos/seed/finanzas/400/220",
+      "duration": "10 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-finanzas"
+    },
+    {
+      "id": 6,
+      "title": "Derecho",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ciencias Jurídicas",
+      "imageUrl": "https://picsum.photos/seed/derecho/400/220",
+      "duration": "9 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-derecho"
+    },
+    {
+      "id": 7,
+      "title": "Comunicación Social",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Comunicación y Lenguaje",
+      "imageUrl": "https://picsum.photos/seed/comunicacion-social/400/220",
+      "duration": "8 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-comunicacion-social"
+    },
+    {
+      "id": 8,
+      "title": "Medicina",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Medicina",
+      "imageUrl": "https://picsum.photos/seed/medicina/400/220",
+      "duration": "12 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-medicina"
+    },
+    {
+      "id": 9,
+      "title": "Psicología",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Psicología",
+      "imageUrl": "https://picsum.photos/seed/psicologia/400/220",
+      "duration": "12 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-psicologia"
+    },
+    {
+      "id": 10,
+      "title": "Ciencia de Datos",
+      "description": "Formación profesional integral con énfasis en investigación, innovación y responsabilidad social.",
+      "category": "Pregrado",
+      "faculty": "Ciencias",
+      "imageUrl": "https://picsum.photos/seed/ciencia-de-datos/400/220",
+      "duration": "9 semestres",
+      "url": "https://www.javeriana.edu.co/carrera-ciencia-de-datos"
+    },
+    {
+      "id": 11,
+      "title": "Maestría en Ingeniería de Sistemas",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Ingeniería",
+      "imageUrl": "https://picsum.photos/seed/maestria-en-ingenier/400/220",
+      "duration": "4 semestres",
+      "url": "https://www.javeriana.edu.co/maestria-ingenieria-de-sistemas-y-computacion"
+    },
+    {
+      "id": 12,
+      "title": "Maestría en Administración",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Ciencias Económicas",
+      "imageUrl": "https://picsum.photos/seed/maestria-en-administ/400/220",
+      "duration": "2 semestres",
+      "url": "https://www.javeriana.edu.co/maestria-administracion"
+    },
+    {
+      "id": 13,
+      "title": "Especialización en Finanzas",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Ciencias Económicas",
+      "imageUrl": "https://picsum.photos/seed/especializacion-en-f/400/220",
+      "duration": "3 semestres",
+      "url": "https://www.javeriana.edu.co/especializacion-finanzas"
+    },
+    {
+      "id": 14,
+      "title": "Especialización en Derecho Contractual",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Ciencias Jurídicas",
+      "imageUrl": "https://picsum.photos/seed/especializacion-en-d/400/220",
+      "duration": "3 semestres",
+      "url": "https://www.javeriana.edu.co/especializacion-derecho-contractual"
+    },
+    {
+      "id": 15,
+      "title": "Especialización en Medicina Interna",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Medicina",
+      "imageUrl": "https://picsum.photos/seed/especializacion-en-m/400/220",
+      "duration": "2 semestres",
+      "url": "https://www.javeriana.edu.co/especializacion-medicina-interna"
+    },
+    {
+      "id": 16,
+      "title": "Maestría en Psicología",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Psicología",
+      "imageUrl": "https://picsum.photos/seed/maestria-en-psicolog/400/220",
+      "duration": "3 semestres",
+      "url": "https://www.javeriana.edu.co/maestria-psicologia"
+    },
+    {
+      "id": 17,
+      "title": "Maestría en Comunicación",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Comunicación",
+      "imageUrl": "https://picsum.photos/seed/maestria-en-comunica/400/220",
+      "duration": "4 semestres",
+      "url": "https://www.javeriana.edu.co/maestria-comunicacion"
+    },
+    {
+      "id": 18,
+      "title": "Maestría en Patrimonio Cultural",
+      "description": "Profundización académica de alto nivel para especialistas comprometidos con la excelencia.",
+      "category": "Posgrado",
+      "faculty": "Arquitectura",
+      "imageUrl": "https://picsum.photos/seed/maestria-en-patrimon/400/220",
+      "duration": "2 semestres",
+      "url": "https://www.javeriana.edu.co/maestria-patrimonio-cultural"
+    },
+    {
+      "id": 19,
+      "title": "Diplomado en Marketing Digital",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/diplomado-en-marketi/400/220",
+      "duration": "6 meses",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    },
+    {
+      "id": 20,
+      "title": "Curso en Inteligencia Artificial",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/curso-en-inteligenci/400/220",
+      "duration": "6 meses",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    },
+    {
+      "id": 21,
+      "title": "Seminario de Liderazgo Empresarial",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/seminario-de-lideraz/400/220",
+      "duration": "1 mes",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    },
+    {
+      "id": 22,
+      "title": "Diplomado en Gestión de Proyectos",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/diplomado-en-gestion/400/220",
+      "duration": "3 meses",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    },
+    {
+      "id": 23,
+      "title": "Curso en Transformación Digital",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/curso-en-transformac/400/220",
+      "duration": "1 mes",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    },
+    {
+      "id": 24,
+      "title": "Programa en Sostenibilidad Ambiental",
+      "description": "Actualización y formación continua para profesionales que buscan ampliar sus competencias.",
+      "category": "Educación Continua",
+      "faculty": "Educación Virtual",
+      "imageUrl": "https://picsum.photos/seed/programa-en-sostenib/400/220",
+      "duration": "6 meses",
+      "url": "https://educacionvirtual.javeriana.edu.co/"
+    }
+  ]
+}
