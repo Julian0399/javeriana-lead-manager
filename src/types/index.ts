@@ -34,7 +34,7 @@ export interface ProgramsState {
   loading: boolean;
   error: string | null;
   searchQuery: string;
-  selectedCategory: ProgramCategory | "All";
+  selectedCategory: ProgramCategory | "Todas";
 }
 
 export interface LeadsState {

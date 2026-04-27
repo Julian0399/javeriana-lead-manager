@@ -7,7 +7,7 @@ interface Props {
 
 export default function Navbar({ searchQuery, onSearchChange }: Props) {
     return (
-        <nav className="bg-primary h-18 flex items-center justify-between gap-4 px-6 mb-4">
+        <nav className="bg-primary h-18 flex items-center justify-between gap-4 px-6 border-b border-gray-200">
 
             <div className="flex items-center gap-2 shrink-0">
                 <img src={logo} alt="Logo Javeriana" className="w-42 p-1"/>

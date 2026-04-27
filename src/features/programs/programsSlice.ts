@@ -18,7 +18,7 @@ const initialState: ProgramsState = {
     loading: false,
     error: null,
     searchQuery: '',
-    selectedCategory: 'All',
+    selectedCategory: 'Todas',
 };
 
 const programsSlice = createSlice({
@@ -28,7 +28,7 @@ const programsSlice = createSlice({
         setSearchQuery(state, action: PayloadAction<string>) {
             state.searchQuery = action.payload;
         },
-        setSelectedCategory(state, action: PayloadAction<ProgramCategory | "All">) {
+        setSelectedCategory(state, action: PayloadAction<ProgramCategory | "Todas">) {
             state.selectedCategory = action.payload;
         },
     },

@@ -1,22 +1,30 @@
 import './App.css'
-import ProgramCard from './components/ProgramCard'
-import { useEffect } from 'react'
+import { useEffect,useMemo,useState } from 'react'
 import { fetchPrograms,setSearchQuery } from './features/programs/programsSlice'
 import { useAppDispatch,useAppSelector } from './hooks/useAppDispatch'
 import type { Program } from './types/index'
 import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Sidebar from './components/Sidebar'
+import ProgramList from './components/ProgramList'
+
 
 function App() {
   const dispatch = useAppDispatch();
   const {items,loading,error,searchQuery} = useAppSelector(state => state.programs)
+  const [selectedProgram, setSelectedProgram] = useState<Program | null>(null);
 
   useEffect(() => {
     dispatch(fetchPrograms());
   }, [dispatch]);
 
-  const handleSignUp = (program: Program) => {
-    alert(`Inscribirse en: ${program.title}`);
-  }
+  const counts = useMemo(() => {
+    const result: Record<string, number> = {Todas: items.length};
+    items.forEach(program => {
+      result[program.category] = (result[program.category] ?? 0) + 1;
+    });
+    return result;
+  }, [items]);
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -24,10 +32,10 @@ function App() {
         searchQuery={searchQuery}
         onSearchChange={(q) => dispatch(setSearchQuery(q))}
       />
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-        {items.map(program => (
-          <ProgramCard key={program.id} program={program} onSignUp={handleSignUp} />
-        ))}
+      <Hero total={items.length} />
+      <div className="flex flex-1">
+        <Sidebar counts={counts} />
+        <ProgramList onSignUp={(p) => setSelectedProgram(p)} />
       </div>
     </div>
       
