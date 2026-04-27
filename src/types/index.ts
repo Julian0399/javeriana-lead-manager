@@ -1,5 +1,5 @@
 export type ProgramCategory =
-  | "Pregado"
+  | "Pregrado"
   | "Posgrado"
   | "Doctorado"
   | "Programas Eclesiasticos"
