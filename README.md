@@ -1,73 +1,71 @@
-# React + TypeScript + Vite
+# Javeriana Lead & Events Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 
+Aplicación web de una sola página (SPA) desarrollada como prueba técnica para el puesto de Desarrollador FrontEnd en la Universidad Javeriana.
 
-Currently, two official plugins are available:
+## Demo en producción Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Ver aplicación desplegada](https://javeriana-lead-manager-rho.vercel.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Stack tecnológico
+ 
+| Tecnología | Uso |
+|---|---|
+| React 19 + Vite | Framework y bundler |
+| TypeScript | Tipado estricto, con el menor uso de `any` posible |
+| Tailwind CSS v4 | Estilos y diseño responsive |
+| Redux Toolkit | Gestión de estado global |
+| My JSON Server | API REST simulada con datos reales |
+ 
+---
 
-## Expanding the ESLint configuration
+## Cómo ejecutar el proyecto localmente
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Requisitos previos
+ 
+- Node.js 18 o superior
+- npm 9 o superior
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Pasos
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/Julian0399/javeriana-lead-manager.git
+cd javeriana-lead-manage
+ 
+# 2. Instalar dependencias
+npm install
+ 
+# 3. Iniciar el servidor de desarrollo
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+La aplicación estará disponible en `http://localhost:5173`
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## API de datos
+ 
+Los programas académicos se consumen desde **My JSON Server**, que expone el archivo `db.json` del repositorio como una API REST, tambien esta el archivo `programas_completo`, el cual se saco priemro extrayendo los datos de la pagina propia de la universiada para tener los programas, pero por peso se tuvo que reorganizar y separar en `db.json`, para que funcionara correctamente en **My JSON Server**:
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
 ```
+GET https://my-json-server.typicode.com/Julian0399/javeriana-lead-manager/programs
+```
+## Decisiones técnicas
+
+### Diseño con identidad Javeriana
+Principalmente de la pagina web tambien se sacaron los colores que utiliza la pagina y la institucion (`#2C5697` azul y `#f8cd00` dorado) lso cuales se definieron como tokens en el `index.css` usando la directiva `@theme` de Tailwind , lo que permite referenciarlos como `bg-primary` y `bg-accent` en todo el proyecto. 
+### Redux Toolkit para estado global
+Se uso Redux Toolkit para persestir los datos como las busquedas atraves de diferentes componentes y tiene que ser accesible de forma facil, tamien se manejaron slices para programas y leads.
+### Hooks tipados (`useAppDispatch` / `useAppSelector`)
+Ya que la prueba pues necesitaba el menso uso del typo `any`, se obto por esos dos sencillos hoocks los cuales garantizan que el tipado sea el correcto.
+### Filtrado con `useMemo`
+Para mejorar la optimizacion de la pagina, se usa useMemo, el cual cachea el resultado de funciones en este caso el filtrado para que cuando se hagan lso renders no se recalcule si no que lo mantenga.
+### Persistencia en localStorage
+Los leads son cargados desde `localStorage`cuando se crea el slice, y cuando se agrega uno nuevo pues se sincroniza.
+
+## Autor
+ 
+**Julian Andres Rodriguez**
+[GitHub](https://github.com/Julian0399) · [LinkedIn](https://www.linkedin.com/in/julianrod-ing/)
+
