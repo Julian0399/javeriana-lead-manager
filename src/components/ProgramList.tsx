@@ -21,7 +21,7 @@ export default function ProgramList({ onSignUp }: Props) {
 
     if (filtered.length === 0) {
         return (
-            <div className="col-span-full text-center py-12 text-[#555]">
+            <div className="col-span-full text-center py-12 pl-12 text-[#555]">
                 No se encontraron programas que coincidan con tu búsqueda.
             </div>
          );

@@ -52,7 +52,7 @@ function App() {
         onSearchChange={(q) => dispatch(setSearchQuery(q))}
       />
       <Hero total={items.length} />
-      <div className="flex flex-1">
+      <div className="flex flex-col md:flex-row flex-1">
         <Sidebar counts={counts} />
         <ProgramList onSignUp={(p) => setSelectedProgram(p)} />
       </div>
