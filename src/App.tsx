@@ -46,15 +46,17 @@ function App() {
     );
   }
   return (
-    <div className="min-h-screen bg-background flex flex-col">
+    <div className="h-screen bg-background flex flex-col overflow-hidden">
       <Navbar
         searchQuery={searchQuery}
         onSearchChange={(q) => dispatch(setSearchQuery(q))}
       />
       <Hero total={items.length} />
-      <div className="flex flex-col md:flex-row flex-1">
+      <div className="flex flex-1 overflow-hidden">
         <Sidebar counts={counts} />
-        <ProgramList onSignUp={(p) => setSelectedProgram(p)} />
+        <div className="flex-1 overflow-y-auto">
+          <ProgramList onSignUp={(p) => setSelectedProgram(p)} />
+        </div>
       </div>
       {selectedProgram && (
         <LeadForm
