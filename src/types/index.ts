@@ -20,13 +20,13 @@ export interface Program {
 }
 
 export interface Lead {
-  id: number;
-  name: string;
+  id: string;
+  fullName: string;
   email: string;
   phone: string;
   programId: number;
   programName: string;
-  createdAt: Date;
+  createdAt: string;
 }
 
 export interface ProgramsState {
