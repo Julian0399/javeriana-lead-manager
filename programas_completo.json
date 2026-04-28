@@ -1,0 +1,1198 @@
+{
+  "Universidad": "Pontificia Universidad Javeriana",
+  "url_oferta": "https://www.javeriana.edu.co/oferta-programas",
+  "Pregrados": [
+    {
+      "facultad": "Facultad de Arquitectura y Diseño",
+      "url_facultad": "https://arquidiseno.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Arquitectura",
+          "url": "https://www.javeriana.edu.co/carrera-arquitectura"
+        },
+        {
+          "nombre": "Diseño Industrial",
+          "url": "https://www.javeriana.edu.co/carrera-diseno-industrial"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Artes",
+      "url_facultad": "https://artes.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Artes Escénicas",
+          "url": "https://www.javeriana.edu.co/carrera-artes-escenicas"
+        },
+        {
+          "nombre": "Estudios Musicales",
+          "url": "https://www.javeriana.edu.co/carrera-estudios-musicales"
+        },
+        {
+          "nombre": "Artes Visuales",
+          "url": "https://www.javeriana.edu.co/carrera-artes-visuales"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias",
+      "url_facultad": "https://ciencias.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Bacteriología",
+          "url": "https://www.javeriana.edu.co/carrera-bacteriologia"
+        },
+        {
+          "nombre": "Biología",
+          "url": "https://www.javeriana.edu.co/carrera-biologia"
+        },
+        {
+          "nombre": "Ciencia de Datos",
+          "url": "https://www.javeriana.edu.co/carrera-ciencia-de-datos"
+        },
+        {
+          "nombre": "Matemáticas",
+          "url": "https://www.javeriana.edu.co/carrera-matematicas"
+        },
+        {
+          "nombre": "Microbiología Industrial",
+          "url": "https://www.javeriana.edu.co/carrera-microbiologia-industrial"
+        },
+        {
+          "nombre": "Nutrición y Dietética",
+          "url": "https://www.javeriana.edu.co/carrera-nutricion-y-dietetica"
+        },
+        {
+          "nombre": "Química Farmacéutica",
+          "url": "https://www.javeriana.edu.co/carrera-quimica-farmaceutica"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Económicas y Administrativas",
+      "url_facultad": "https://cea.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Administración de Empresas",
+          "url": "https://www.javeriana.edu.co/carrera-administracion-de-empresas"
+        },
+        {
+          "nombre": "Contaduría Pública",
+          "url": "https://www.javeriana.edu.co/carrera-contaduria-publica"
+        },
+        {
+          "nombre": "Economía",
+          "url": "https://www.javeriana.edu.co/carrera-economia"
+        },
+        {
+          "nombre": "Finanzas",
+          "url": "https://www.javeriana.edu.co/carrera-finanzas"
+        },
+        {
+          "nombre": "Negocios internacionales",
+          "url": "https://www.javeriana.edu.co/carrera-negocios-internacionales"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Jurídicas",
+      "url_facultad": "https://cienciasjuridicas.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Derecho",
+          "url": "https://www.javeriana.edu.co/carrera-derecho"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Sociales",
+      "url_facultad": "https://cienciassociales.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Antropología",
+          "url": "https://www.javeriana.edu.co/carrera-antropologia"
+        },
+        {
+          "nombre": "Estudios Literarios",
+          "url": "https://www.javeriana.edu.co/carrera-estudios-literarios"
+        },
+        {
+          "nombre": "Historia",
+          "url": "https://www.javeriana.edu.co/carrera-historia"
+        },
+        {
+          "nombre": "Sociología",
+          "url": "https://www.javeriana.edu.co/carrera-sociologia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Políticas y Relaciones Internacionales",
+      "url_facultad": "https://cpri.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Ciencia Política",
+          "url": "https://www.javeriana.edu.co/carrera-ciencias-politicas"
+        },
+        {
+          "nombre": "Relaciones Internacionales",
+          "url": "https://www.javeriana.edu.co/carrera-relaciones-internacionales"
+        },
+        {
+          "nombre": "Negocios internacionales",
+          "url": "https://www.javeriana.edu.co/carrera-negocios-internacionales"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Comunicación y Lenguaje",
+      "url_facultad": "https://comunicacionylenguaje.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Ciencia de la Información, Bibliotecología y Archivística",
+          "url": "https://www.javeriana.edu.co/carrera-ciencia-informacion/"
+        },
+        {
+          "nombre": "Comunicación Social",
+          "url": "https://www.javeriana.edu.co/carrera-comunicacion-social"
+        },
+        {
+          "nombre": "Licenciatura en Lenguas Modernas con Énfasis en Inglés y Francés",
+          "url": "https://www.javeriana.edu.co/carrera-licenciatura-en-lenguas-modernas"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Educación",
+      "url_facultad": "https://educacion.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Licenciatura en Educación Infantil",
+          "url": "https://www.javeriana.edu.co/carrera-licenciatura-en-educacion-infantil"
+        },
+        {
+          "nombre": "Licenciatura en Filosofía",
+          "url": "https://www.javeriana.edu.co/carrera-licenciatura-en-filosofia/"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Enfermería",
+      "url_facultad": "https://enfermeria.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Enfermería",
+          "url": "https://www.javeriana.edu.co/carrera-enfermeria"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Estudios Ambientales y Rurales",
+      "url_facultad": "https://fear.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Ecología",
+          "url": "https://www.javeriana.edu.co/carrera-ecologia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Filosofía",
+      "url_facultad": "https://filosofia.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Filosofía",
+          "url": "https://www.javeriana.edu.co/carrera-filosofia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ingeniería",
+      "url_facultad": "https://ingenieria.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Bioingeniería",
+          "url": "https://www.javeriana.edu.co/carrera-bioingenieria"
+        },
+        {
+          "nombre": "Ingeniería Civil",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-civil"
+        },
+        {
+          "nombre": "Ingeniería Electrónica",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-electronica"
+        },
+        {
+          "nombre": "Ingeniería Industrial",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-industrial"
+        },
+        {
+          "nombre": "Ingeniería Mecánica",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-mecanica"
+        },
+        {
+          "nombre": "Ingeniería Mecatrónica",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-mecatronica/"
+        },
+        {
+          "nombre": "Ingeniería en Redes y Telecomunicaciones",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-redes-telecomunicaciones"
+        },
+        {
+          "nombre": "Ingeniería de Sistemas",
+          "url": "https://www.javeriana.edu.co/carrera-ingenieria-de-sistemas"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Medicina",
+      "url_facultad": "https://medicina.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Medicina",
+          "url": "https://www.javeriana.edu.co/carrera-medicina"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Odontología",
+      "url_facultad": "https://odontologia.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Odontología",
+          "url": "https://www.javeriana.edu.co/carrera-odontologia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Psicología",
+      "url_facultad": "https://psicologia.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Psicología",
+          "url": "https://www.javeriana.edu.co/carrera-psicologia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Teología",
+      "url_facultad": "https://teologia.javeriana.edu.co/",
+      "programas": [
+        {
+          "nombre": "Teología",
+          "url": "https://www.javeriana.edu.co/carrera-teologia"
+        },
+        {
+          "nombre": "Licenciatura en Teología",
+          "url": "https://www.javeriana.edu.co/carrera-licenciatura-en-teologia"
+        }
+      ]
+    }
+  ],
+  "Posgrados": [
+    {
+      "facultad": "Facultad de Arquitectura y Diseño",
+      "url_facultad": "https://arquidiseno.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Gerencia de Proyectos de Diseño",
+          "url": "https://www.javeriana.edu.co/especializacion-en-gerencia-de-proyectos-de-diseno"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Diseño para la Innovación de Productos y Servicios",
+          "url": "https://www.javeriana.edu.co/maestria-diseno-innovacion-productos-y-servicios/"
+        },
+        {
+          "nombre": "Maestría en Planeación Urbana y Regional",
+          "url": "https://www.javeriana.edu.co/maestria-planeacion-urbana-y-regional"
+        },
+        {
+          "nombre": "Maestría en Arquitectura del Paisaje",
+          "url": "https://www.javeriana.edu.co/maestria-arquitectura-paisaje"
+        },
+        {
+          "nombre": "Maestría en Innovación en la Construcción",
+          "url": "https://www.javeriana.edu.co/maestria-innovacion-construccion"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Artes",
+      "url_facultad": "https://artes.javeriana.edu.co/",
+      "especializaciones": [],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Creación Audiovisual",
+          "url": "https://www.javeriana.edu.co/maestria-creacion-audiovisual/"
+        },
+        {
+          "nombre": "Maestría en Música",
+          "url": "https://www.javeriana.edu.co/maestria-musica"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Ciencias",
+      "url_facultad": "https://ciencias.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Análisis Químico Instrumental",
+          "url": "https://www.javeriana.edu.co/especializacion-analisis-quimico-instrumental"
+        },
+        {
+          "nombre": "Especialización en Hematología en el Laboratorio Clínico y Manejo del Banco de Sangre",
+          "url": "https://www.javeriana.edu.co/especializacion-hematologia-en-el-laboratorio-clinico-y-manejo-del-banco-de-sangre/"
+        },
+        {
+          "nombre": "Especialización en Microbiología Médica",
+          "url": "https://www.javeriana.edu.co/especializacion-microbiologia-medica"
+        },
+        {
+          "nombre": "Especialización en Administración de Salud",
+          "url": "https://www.javeriana.edu.co/especializacion-administracion-de-salud"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Ciencias Biológicas",
+          "url": "https://www.javeriana.edu.co/maestria-ciencias-biologicas"
+        },
+        {
+          "nombre": "Maestría en Ciencias del Laboratorio Clínico",
+          "url": "https://www.javeriana.edu.co/maestria-ciencias-laboratorio-clinico"
+        },
+        {
+          "nombre": "Maestría en Física Médica",
+          "url": "https://www.javeriana.edu.co/maestria-fisica-medica"
+        },
+        {
+          "nombre": "Maestría en Matemáticas",
+          "url": "https://www.javeriana.edu.co/maestria-matematicas/"
+        },
+        {
+          "nombre": "Maestría en Restauración Ecológica",
+          "url": "https://www.javeriana.edu.co/maestria-restauracion-ecologica/"
+        },
+        {
+          "nombre": "Maestría en Administración de Salud",
+          "url": "https://www.javeriana.edu.co/maestria-administracion-de-salud/"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Ciencias Biológicas",
+          "url": "https://www.javeriana.edu.co/doctorado-ciencias-biologicas"
+        },
+        {
+          "nombre": "Doctorado en Ciencias Biomédicas",
+          "url": "https://www.javeriana.edu.co/doctorado-ciencias-biomedicas"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Económicas y Administrativas",
+      "url_facultad": "https://cea.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Aseguramiento y Control Interno - (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-aseguramiento-y-control-interno"
+        },
+        {
+          "nombre": "Especialización en Contabilidad Financiera Internacional (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-contabilidad-financiera-internacional"
+        },
+        {
+          "nombre": "Especialización en Contabilidad Gerencial",
+          "url": "https://www.javeriana.edu.co/especializacion-contabilidad-gerencial"
+        },
+        {
+          "nombre": "Especialización en Economía",
+          "url": "https://www.javeriana.edu.co/especializacion-economia"
+        },
+        {
+          "nombre": "Especialización en Gerencia Estratégica de la Innovación",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-estrategica-innovacion/"
+        },
+        {
+          "nombre": "Especialización en Gerencia Financiera",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-financiera"
+        },
+        {
+          "nombre": "Especialización en Gerencia Hospitalaria",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-hospitalaria"
+        },
+        {
+          "nombre": "Especialización en Gerencia de la Calidad de los Servicios de Salud",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-de-la-calidad-de-los-servicios-de-salud"
+        },
+        {
+          "nombre": "Especialización en Gerencia del Talento Humano",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-del-talento-humano/"
+        },
+        {
+          "nombre": "Especialización en Inteligencia de los Negocios Internacionales",
+          "url": "https://www.javeriana.edu.co/especializacion-en-gerencia-internacional"
+        },
+        {
+          "nombre": "Especialización en Marketing Estratégico",
+          "url": "https://www.javeriana.edu.co/especializacion-marketing-estrategico"
+        },
+        {
+          "nombre": "Especialización en Revisoría Fiscal",
+          "url": "https://www.javeriana.edu.co/especializacion-revisoria-fiscal"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Administración - MBA Profesional",
+          "url": "https://www.javeriana.edu.co/maestria-administracion-mba/"
+        },
+        {
+          "nombre": "Maestría en Banca y Finanzas",
+          "url": "https://www.javeriana.edu.co/maestria-banca-finanzas"
+        },
+        {
+          "nombre": "Maestría en Economía",
+          "url": "https://www.javeriana.edu.co/maestria-economia/"
+        },
+        {
+          "nombre": "Maestría en Economía de la Salud",
+          "url": "https://www.javeriana.edu.co/maestria-economia-de-la-salud/"
+        },
+        {
+          "nombre": "Maestría en Estrategia, Innovación y Competitividad",
+          "url": "https://www.javeriana.edu.co/maestria-estrategia-innovacion-competitividad"
+        },
+        {
+          "nombre": "Maestría en Gerencia de la Sostenibilidad",
+          "url": "https://www.javeriana.edu.co/maestria-en-gerencia-de-la-sostenibilidad"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Administración",
+          "url": "https://www.javeriana.edu.co/doctorado-en-administracion"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Jurídicas",
+      "url_facultad": "https://cienciasjuridicas.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Derecho Administrativo",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-administrativo"
+        },
+        {
+          "nombre": "Especialización en Derecho Comercial",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-comercial"
+        },
+        {
+          "nombre": "Especialización en Derecho de la Competencia (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-de-la-competencia"
+        },
+        {
+          "nombre": "Especialización en Derecho de Familia",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-de-familia/"
+        },
+        {
+          "nombre": "Especialización en Derecho Financiero y Mercado de Valores",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-financiero-mercado-valores"
+        },
+        {
+          "nombre": "Especialización en Derecho Laboral",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-laboral"
+        },
+        {
+          "nombre": "Especialización en Derecho de la Seguridad Social",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-de-la-seguridad-social"
+        },
+        {
+          "nombre": "Especialización en Derecho de Sociedades",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-de-sociedades"
+        },
+        {
+          "nombre": "Especialización en Derecho de Seguros (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-de-seguros"
+        },
+        {
+          "nombre": "Especialización en Derecho Sustantivo y Contencioso Constitucional",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-sustantivo-y-contencioso-constitucional"
+        },
+        {
+          "nombre": "Especialización en Derecho Tributario",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-tributario"
+        },
+        {
+          "nombre": "Especialización en Derecho Urbanístico - (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-urbanistico"
+        },
+        {
+          "nombre": "Especialización en Derecho Urbanístico - (Bucaramanga)",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-urbanistico-bucaramanga"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Derecho Administrativo",
+          "url": "https://www.javeriana.edu.co/maestria-derecho-administrativo"
+        },
+        {
+          "nombre": "Maestría en Derecho Constitucional",
+          "url": "https://www.javeriana.edu.co/maestria-derecho-constitucional"
+        },
+        {
+          "nombre": "Maestría en Derecho Económico",
+          "url": "https://www.javeriana.edu.co/maestria-derecho-economico"
+        },
+        {
+          "nombre": "Maestría en Derecho de Seguros",
+          "url": "https://www.javeriana.edu.co/maestria-derecho-de-seguros"
+        },
+        {
+          "nombre": "Maestría en Derecho Laboral y de la Seguridad Social",
+          "url": "https://www.javeriana.edu.co/maestria-en-derecho-laboral-y-seguridad-social"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Derecho",
+          "url": "https://www.javeriana.edu.co/doctorado-en-derecho"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ciencias Políticas y Relaciones Internacionales",
+      "url_facultad": "https://politicas.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Literatura Infantil y Juvenil",
+          "url": "https://www.javeriana.edu.co/especializacion-literatura-infantil/"
+        },
+        {
+          "nombre": "Especialización en Gobierno y Gestión Pública Territoriales - (Barranquilla)",
+          "url": "https://www.javeriana.edu.co/especializacion-gobierno-y-gestion-publica-territoriales-barranquilla"
+        },
+        {
+          "nombre": "Especialización en Gobierno y Gestión Pública Territoriales - (Bogotá)",
+          "url": "https://www.javeriana.edu.co/especializacion-gobierno-y-gestion-publica-territoriales"
+        },
+        {
+          "nombre": "Especialización en Opinión Pública y Mercadeo Político",
+          "url": "https://www.javeriana.edu.co/especializacion-opinion-publica-y-mercadeo-politico"
+        },
+        {
+          "nombre": "Especialización en Resolución de Conflictos",
+          "url": "https://www.javeriana.edu.co/especializacion-resolucion-de-conflictos"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Estudios Internacionales",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-internacionales"
+        },
+        {
+          "nombre": "Maestría en Estudios de Paz y Resolución de Conflictos",
+          "url": "https://www.javeriana.edu.co/maestria-en-estudios-de-paz-y-resolucion-de-conflictos"
+        },
+        {
+          "nombre": "Maestría en Estudios Políticos",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-politicos"
+        },
+        {
+          "nombre": "Maestría en Gobierno del Territorio y Gestión Pública",
+          "url": "https://www.javeriana.edu.co/maestria-gobierno-del-territorio-y-gestion-publica"
+        },
+        {
+          "nombre": "Maestría en Política Social",
+          "url": "https://www.javeriana.edu.co/maestria-politica-social"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Ciencias Sociales",
+      "url_facultad": "https://cienciassociales.javeriana.edu.co/",
+      "especializaciones": [],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Archivística Histórica y Memoria - (Bogotá)",
+          "url": "https://www.javeriana.edu.co/maestria-archivistica-historica-y-memoria/"
+        },
+        {
+          "nombre": "Maestría en Estudios Afrocolombianos - (Bogotá)",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-afrocolombianos"
+        },
+        {
+          "nombre": "Maestría en Estudios Culturales",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-culturales"
+        },
+        {
+          "nombre": "Maestría en Estudios Culturales Latinoamericanos - Virtual",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-culturales-latinoamericanos-virtual"
+        },
+        {
+          "nombre": "Maestría en Literatura",
+          "url": "https://www.javeriana.edu.co/maestria-literatura"
+        },
+        {
+          "nombre": "Maestría en Historia",
+          "url": "https://www.javeriana.edu.co/maestria-historia"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Ciencias Sociales y Humanas",
+          "url": "https://www.javeriana.edu.co/doctorado-ciencias-sociales-y-humanas"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Comunicación y Lenguaje",
+      "url_facultad": "https://comunicacion.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Comunicación Organizacional",
+          "url": "https://www.javeriana.edu.co/especializacion-comunicacion-organizacional"
+        },
+        {
+          "nombre": "Especialización en Televisión Expandida y Transmedia",
+          "url": "https://www.javeriana.edu.co/especializacion-television-expandida-y-transmedia/"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Comunicación, Tecnología y Sociedad",
+          "url": "https://www.javeriana.edu.co/maestria-comunicacion-tecnologia-y-sociedad/"
+        },
+        {
+          "nombre": "Maestría en Estudios del Lenguaje",
+          "url": "https://www.javeriana.edu.co/maestria-estudios-lenguaje"
+        },
+        {
+          "nombre": "Maestría en Lingüística Aplicada del Español como Lengua Extranjera",
+          "url": "https://www.javeriana.edu.co/maestria-linguistica-aplicada"
+        },
+        {
+          "nombre": "Maestría en Lingüística Aplicada del Español como Lengua Extranjera - Virtual",
+          "url": "https://www.javeriana.edu.co/maestria-linguistica-aplicada-virtual"
+        },
+        {
+          "nombre": "Maestría en Periodismo Científico",
+          "url": "https://www.javeriana.edu.co/maestria-periodismo-cientifico"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Derecho Canónico",
+      "url_facultad": "https://www.javeriana.edu.co/facultad-derecho-canonico",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Derecho Matrimonial Canónico - Virtual",
+          "url": "https://www.javeriana.edu.co/especializacion-derecho-matrimonial-canonico-virtual"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Derecho Canónico",
+          "url": "https://www.javeriana.edu.co/maestria-derecho-canonico"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Educación",
+      "url_facultad": "https://educacion.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Liderazgo para la Gestión Social - Virtual",
+          "url": "https://www.javeriana.edu.co/especializacion-liderazgo-gestion-social-virtual/"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Educación",
+          "url": "https://www.javeriana.edu.co/maestria-educacion"
+        },
+        {
+          "nombre": "Maestría en Educación para la Innovación y las Ciudadanías - Virtual",
+          "url": "https://www.javeriana.edu.co/maestria-educacion-para-innovacion-ciudadanias-virtual/"
+        },
+        {
+          "nombre": "Maestría en Salud Mental Escolar - Virtual",
+          "url": "https://www.javeriana.edu.co/info-prg/maestria-salud-mental-escolar"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Educación",
+          "url": "https://www.javeriana.edu.co/doctorado-en-educacion"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Enfermería",
+      "url_facultad": "https://enfermeria.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Enfermería Pediátrica",
+          "url": "https://www.javeriana.edu.co/especializacion-enfermeria-pediatrica"
+        },
+        {
+          "nombre": "Especialización en Enfermeria en Cuidado Crítico",
+          "url": "https://www.javeriana.edu.co/especializacion-cuidado-critico"
+        },
+        {
+          "nombre": "Especialización en Seguridad y Salud en el Trabajo",
+          "url": "https://www.javeriana.edu.co/especializacion-seguridad-salud-trabajo"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Enfermería Oncológica",
+          "url": "https://www.javeriana.edu.co/maestria-enfermeria-oncologica"
+        },
+        {
+          "nombre": "Maestría en Enfermería en Cuidado Paliativo",
+          "url": "https://www.javeriana.edu.co/maestria-enfermeria-cuidado-paliativo"
+        },
+        {
+          "nombre": "Maestría en Enfermería en Cuidado Crítico",
+          "url": "https://www.javeriana.edu.co/maestria-enfermeria-cuidado-critico/"
+        },
+        {
+          "nombre": "Maestría en Seguridad y Salud en el Trabajo",
+          "url": "https://www.javeriana.edu.co/maestria-seguridad-salud-trabajo"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Estudios Ambientales y Rurales",
+      "url_facultad": "https://ambientales.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Gestión de Empresas de la Economía Social y Solidaria - Virtual",
+          "url": "https://www.javeriana.edu.co/especializacion-gestion-empresas-economia-social-solidaria/"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Desarrollo Rural",
+          "url": "https://www.javeriana.edu.co/maestria-desarrollo-rural"
+        },
+        {
+          "nombre": "Maestría en Gestión Ambiental",
+          "url": "https://www.javeriana.edu.co/maestria-gestion-ambiental"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Estudios Ambientales y Rurales",
+          "url": "https://www.javeriana.edu.co/doctorado-estudios-ambientales-y-rurales"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Filosofía",
+      "url_facultad": "https://filosofia.javeriana.edu.co/",
+      "especializaciones": [],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Filosofía",
+          "url": "https://www.javeriana.edu.co/maestria-filosofia"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Filosofía",
+          "url": "https://www.javeriana.edu.co/doctorado-filosofia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Ingeniería",
+      "url_facultad": "https://ingenieria.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Arquitectura Empresarial de Software",
+          "url": "https://www.javeriana.edu.co/especializacion-en-arquitectura-empresarial-de-software"
+        },
+        {
+          "nombre": "Especialización en Geotecnia Vial y Pavimentos",
+          "url": "https://www.javeriana.edu.co/especializacion-geotecnia-vial-pavimentos"
+        },
+        {
+          "nombre": "Especialización en Gerencia de Construcciones",
+          "url": "https://www.javeriana.edu.co/especializacion-gerencia-construcciones"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Ingeniería Biomédica",
+          "url": "https://www.javeriana.edu.co/maestria-ingenieria-biomedica"
+        },
+        {
+          "nombre": "Maestría en Ingeniería de Sistemas y Computación",
+          "url": "https://www.javeriana.edu.co/maestria-ingenieria-sistemas-y-computacion"
+        },
+        {
+          "nombre": "Maestría en Ingeniería Industrial",
+          "url": "https://www.javeriana.edu.co/maestria-ingenieria-industrial"
+        },
+        {
+          "nombre": "Maestría en Ingeniería Electrónica",
+          "url": "https://www.javeriana.edu.co/maestria-ingenieria-electronica"
+        },
+        {
+          "nombre": "Maestría en Ingeniería Civil",
+          "url": "https://www.javeriana.edu.co/maestria-ingenieria-civil"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Ingeniería",
+          "url": "https://www.javeriana.edu.co/doctorado-en-ingenieria"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Medicina",
+      "url_facultad": "https://medicina.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Anestesiología",
+          "url": "https://www.javeriana.edu.co/especializacion-anestesiologia"
+        },
+        {
+          "nombre": "Especialización en Cirugía General",
+          "url": "https://www.javeriana.edu.co/especializacion-cirugia-general"
+        },
+        {
+          "nombre": "Especialización en Dermatología",
+          "url": "https://www.javeriana.edu.co/especializacion-dermatologia"
+        },
+        {
+          "nombre": "Especialización en Medicina Interna",
+          "url": "https://www.javeriana.edu.co/especializacion-medicina-interna"
+        },
+        {
+          "nombre": "Especialización en Pediatría",
+          "url": "https://www.javeriana.edu.co/especializacion-pediatria"
+        },
+        {
+          "nombre": "Especialización en Psiquiatría",
+          "url": "https://www.javeriana.edu.co/especializacion-psiquiatria"
+        },
+        {
+          "nombre": "Especialización en Radiología e Imágenes Diagnósticas",
+          "url": "https://www.javeriana.edu.co/especializacion-radiologia"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Epidemiología Clínica",
+          "url": "https://www.javeriana.edu.co/maestria-epidemiologia-clinica"
+        },
+        {
+          "nombre": "Maestría en Salud Pública",
+          "url": "https://www.javeriana.edu.co/maestria-salud-publica"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Ciencias de la Salud",
+          "url": "https://www.javeriana.edu.co/doctorado-ciencias-de-la-salud"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Odontología",
+      "url_facultad": "https://odontologia.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Endodoncia",
+          "url": "https://www.javeriana.edu.co/especializacion-endodoncia"
+        },
+        {
+          "nombre": "Especialización en Ortodoncia",
+          "url": "https://www.javeriana.edu.co/especializacion-ortodoncia"
+        },
+        {
+          "nombre": "Especialización en Periodoncia e Implantología",
+          "url": "https://www.javeriana.edu.co/especializacion-periodoncia-e-implantologia"
+        },
+        {
+          "nombre": "Especialización en Rehabilitación Oral",
+          "url": "https://www.javeriana.edu.co/especializacion-rehabilitacion-oral"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Odontología",
+          "url": "https://www.javeriana.edu.co/maestria-odontologia"
+        }
+      ],
+      "doctorados": []
+    },
+    {
+      "facultad": "Facultad de Psicología",
+      "url_facultad": "https://psicologia.javeriana.edu.co/",
+      "especializaciones": [
+        {
+          "nombre": "Especialización en Psicología Clínica con Énfasis en Teoría, Investigación y Clínica Psicoanalítica",
+          "url": "https://www.javeriana.edu.co/especializacion-psicologia-clinica-psicoanalisis"
+        }
+      ],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Psicología",
+          "url": "https://www.javeriana.edu.co/maestria-psicologia"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Psicología",
+          "url": "https://www.javeriana.edu.co/doctorado-psicologia"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Teología",
+      "url_facultad": "https://teologia.javeriana.edu.co/",
+      "especializaciones": [],
+      "maestrias": [
+        {
+          "nombre": "Maestría en Teología",
+          "url": "https://www.javeriana.edu.co/maestria-teologia"
+        }
+      ],
+      "doctorados": [
+        {
+          "nombre": "Doctorado en Teología",
+          "url": "https://www.javeriana.edu.co/doctorado-en-teologia"
+        }
+      ]
+    }
+  ],
+  "ProgramasEclesiasticos": [
+    {
+      "facultad": "Facultad de Derecho Canónico",
+      "url_facultad": "https://www.javeriana.edu.co/facultad-derecho-canonico",
+      "programas": [
+        {
+          "tipo": "Bachillerato Eclesiástico",
+          "nombre": "Bachillerato en Derecho Canónico",
+          "url": "https://www.javeriana.edu.co/bachillerato-derecho-canonico"
+        },
+        {
+          "tipo": "Licenciatura Eclesiástica",
+          "nombre": "Licenciatura en Derecho Canónico",
+          "url": "https://www.javeriana.edu.co/licenciatura-derecho-canonico"
+        },
+        {
+          "tipo": "Doctorado Eclesiástico",
+          "nombre": "Doctorado en Derecho Canónico",
+          "url": "https://www.javeriana.edu.co/doctorado-derecho-canonico"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Filosofía",
+      "url_facultad": "https://filosofia.javeriana.edu.co/",
+      "programas": [
+        {
+          "tipo": "Bachillerato Eclesiástico",
+          "nombre": "Bachillerato en Filosofía",
+          "url": "https://www.javeriana.edu.co/bachillerato-filosofia"
+        },
+        {
+          "tipo": "Licenciatura Eclesiástica",
+          "nombre": "Licenciatura en Filosofía",
+          "url": "https://www.javeriana.edu.co/licenciatura-filosofia"
+        },
+        {
+          "tipo": "Doctorado Eclesiástico",
+          "nombre": "Doctorado en Filosofía Escolástica",
+          "url": "https://www.javeriana.edu.co/doctorado-filosofia-escolastica"
+        }
+      ]
+    },
+    {
+      "facultad": "Facultad de Teología",
+      "url_facultad": "https://teologia.javeriana.edu.co/",
+      "programas": [
+        {
+          "tipo": "Bachillerato Eclesiástico",
+          "nombre": "Bachillerato en Teología",
+          "url": "https://www.javeriana.edu.co/bachillerato-teologia"
+        },
+        {
+          "tipo": "Licenciatura Eclesiástica",
+          "nombre": "Licenciatura en Teología",
+          "url": "https://www.javeriana.edu.co/licenciatura-teologia"
+        },
+        {
+          "tipo": "Maestría Eclesiástica",
+          "nombre": "Maestría en Teología Espiritual",
+          "url": "https://www.javeriana.edu.co/maestria-teologia-espiritual"
+        },
+        {
+          "tipo": "Doctorado Eclesiástico",
+          "nombre": "Doctorado en Teología",
+          "url": "https://www.javeriana.edu.co/doctorado-teologia-eclesiastico"
+        }
+      ]
+    }
+  ],
+  "EducacionContinua": {
+    "url": "https://educacionvirtual.javeriana.edu.co/",
+    "url_programas": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo",
+    "tipos_de_programa": [
+      "Curso",
+      "Diplomado",
+      "MOOC - Cursos Gratuitos",
+      "Seminario",
+      "Taller",
+      "Programa para profesionales"
+    ],
+    "modalidades": [
+      "Virtual Asincrónico",
+      "Virtual Sincrónico",
+      "Presencial",
+      "Híbrido"
+    ],
+    "niveles": [
+      "Básico",
+      "Intermedio",
+      "Avanzado"
+    ],
+    "acompañamiento": [
+      "Autogestionable",
+      "Tutorializado"
+    ],
+    "lineas_de_conocimiento": [
+      {
+        "nombre": "Artes - oficios y aficiones",
+        "url_busqueda": "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo?query-prg=eyJxdWVyeSI6IiIsImZhY3VsdGFkIjoiIiwiYXJlYXMiOiJBcnRlcyAtIG9maWNpb3MgeSBhZmljaW9uZXMiLCJ0aXBvUHJvZ3JhbWEiOiIiLCJtb2RhbGlkYWQiOiIiLCJuaXZlbCI6IiIsInRpcG9UdXRvcmlhIjoiIn0="
+      },
+      {
+        "nombre": "Ciencias",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Creatividad e Innovación",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Comunicación - sociedad y cultura",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Desarrollo sostenible e impacto social y ambiental",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Educación - enseñanza y aprendizaje",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Espiritualidad - bienestar y desarrollo personal",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Estado y democracia",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Gestión del conocimiento empresarial",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Género e igualdad",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Empleo y emprendimiento: Competencias y habilidades",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Paz y reconciliación",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Salud y vida",
+        "url_busqueda": ""
+      },
+      {
+        "nombre": "Transformación digital",
+        "url_busqueda": ""
+      }
+    ],
+    "programas_especiales": [
+      {
+        "nombre": "Pre ICFES",
+        "url": "https://educacionvirtual.javeriana.edu.co/"
+      },
+      {
+        "nombre": "Preuniversitario",
+        "url": "https://educacionvirtual.javeriana.edu.co/"
+      },
+      {
+        "nombre": "MOOC - Cursos Gratuitos",
+        "url": "https://educacionvirtual.javeriana.edu.co/envivo"
+      },
+      {
+        "nombre": "Escuela de Verano",
+        "url": "https://educacionvirtual.javeriana.edu.co/escuela-de-verano"
+      },
+      {
+        "nombre": "Hub Aeronáutico",
+        "url": "https://educacionvirtual.javeriana.edu.co/ruta-hub-aeronautico"
+      }
+    ],
+    "programas_niños_jovenes": [
+      {
+        "nombre": "PiES (Programa de Iniciación en Educación Superior)",
+        "url": "https://educacionvirtual.javeriana.edu.co/javeriana_ninos_jovenes"
+      },
+      {
+        "nombre": "PiJ (Programa de Iniciación Juvenil)",
+        "url": "https://educacionvirtual.javeriana.edu.co/pij"
+      }
+    ],
+    "formacion_empresarial": {
+      "descripcion": "Programas a medida para empresas, gobierno y grandes corporaciones",
+      "url_contacto": "https://educacionvirtual.javeriana.edu.co/contactanos",
+      "url_sector_gobierno": "https://educacionvirtual.javeriana.edu.co/sector_gobierno",
+      "url_grandes_corporaciones": "https://educacionvirtual.javeriana.edu.co/empresarial"
+    },
+    "rutas_de_aprendizaje": [
+      {
+        "nombre": "Rutas Autogestionables",
+        "url": "https://educacionvirtual.javeriana.edu.co/rutas_aprendizaje_sxx"
+      },
+      {
+        "nombre": "Restauración Ecológica",
+        "url": "https://educacionvirtual.javeriana.edu.co/restauracion-ecologica"
+      },
+      {
+        "nombre": "Empleabilidad",
+        "url": "https://educacionvirtual.javeriana.edu.co/ruta-empleabilidad"
+      },
+      {
+        "nombre": "El Papa y su pensamiento",
+        "url": "https://educacionvirtual.javeriana.edu.co/ruta_pensamiento_papa"
+      },
+      {
+        "nombre": "Ruta Odontología IA",
+        "url": "https://educacionvirtual.javeriana.edu.co/ruta-aprendizaje-odontologia-inteligencia-artificial"
+      }
+    ]
+  }
+}
